@@ -4,7 +4,7 @@
 
  1. 使能够运行在linux平台下，修改了输出日志代码
  2. 增加mmpu,hint，mmth，muli box解析
- 3. 增加box搜索功能（这个地方运行会有内存错误，待完善）
+ 3. 增加box搜索功能（这个地方运行会有内存错误，待完善）=>update list operation resolve segment fault when searchBox function
 
 
 ###使用说明
